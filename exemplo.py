@@ -5,3 +5,4 @@
 s = 'Data Science Academy'
 print(s)
 print(s[:1])
+print(s[1:])
